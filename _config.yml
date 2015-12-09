@@ -1,0 +1,44 @@
+permalink: /:year-:month-:day/:title/
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: [
+   "no_intra_emphasis"
+   ,"fenced_code_blocks"
+   ,"autolink"
+   ,"tables"
+   ,"strikethrough"
+   ,"superscript"
+   ,"with_toc_data"
+   ,"footnotes"
+   ,"highlight"
+   ,"underline"
+   ,"quote"
+   ,"lax_spacing"
+   ,"prettify"
+#   ,"html_toc"
+  ]
+
+
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: ":num"
+baseurl: ""
+
+title: "ByronBai"
+email: "happybyronbai@gmail.com"
+description: "Developer"
+github_username:  "happybai"
+swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
+disqus_shortname: "happybai"
+
+
+
+#url: "http://blog.rainyalley.com"
+#grepo: "http://blog.rainyalley.com/static/img"
+#url: "http://blog.byronbai.com"
+#imgrepo: "http://blog.byronbai.com/static/img"
+url: "http://127.0.0.1:4000"
+imgrepo: "http://127.0.0.1:4000/static/img"
+
