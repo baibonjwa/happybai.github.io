@@ -1,8 +1,7 @@
 ---
 layout: post
 title: CSS居中的方法整合--水平居中
-date: 2015-07-14T9:24:13+08:00
-summary: CSS居中的方法整合--水平居中
+tags: 前端
 categories: 前端
 ---
 
