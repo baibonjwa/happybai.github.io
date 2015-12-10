@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 博客正式开通--一切从新开始
+title: 博客正式改版
 tags: 杂谈
 categories: common
 ---
