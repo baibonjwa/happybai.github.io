@@ -1,3 +1,10 @@
+---
+layout: post
+title: JavaScript 风格指导（Airbnb版）
+tags: 前端
+categories: 前端
+---
+
 # JavaScript 风格指导（Airbnb版）
 
 **用更合理的方式写 JavaScript**
